@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F686BD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F686BD&size=35&center=true&vCenter=true&width=1000&lines=Nunca+deixe+de+estudar.+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F686BD&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub.+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=taissasli&show_icons=true&count_private=true&hide_border=true&title_color=F686BD&icon_color=F686BD&text_color=c9d1d9&bg_color=0d1117" alt="Taissa Lima github stats" /> 
@@ -11,6 +11,7 @@
 
 <div>
   <img align="right" height="590em" src="https://gist.githubusercontent.com/taissasli/293227bb62345aaf5f9d655cd0c29374/raw/42fe54de9afc7816d71c609589928d1d693c59be/githubcard.svg"/>
+  <h3>Sobre mim:</h3>
   
   - ❣ Atualmente estudando a trilha do Empower Code for Women
   
@@ -20,7 +21,7 @@
   
   - 💡 Uma palavra que me defina: Otimismo.
   
-  <br><br>
+
 </div>
 
   ##
