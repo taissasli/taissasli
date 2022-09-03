@@ -6,7 +6,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taissasli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <p style="color: F686BD">Aprendendo atualmente:</p>
+  <p style=color: F686BD;>Aprendendo atualmente:</p>
   <img align="center" alt="Tai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
