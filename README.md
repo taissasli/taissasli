@@ -6,6 +6,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taissasli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  <p>Currently learning:</p>
   <img align="center" alt="Tai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -21,4 +22,4 @@
   <a href="https://www.linkedin.com/in/taissa-lima-064a38232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F686BD&height=120&section=footer"/>****
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F686BD&height=120&section=footer"/>
