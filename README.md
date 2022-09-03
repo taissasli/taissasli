@@ -26,7 +26,7 @@
 
   ##
     
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <h3>Aprendendo:</h3>
   <img align="center" alt="Tai-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Tai-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
