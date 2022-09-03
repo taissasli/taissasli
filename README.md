@@ -12,16 +12,19 @@
 
 <div>
   <img align="right" height="590em" src="https://gist.githubusercontent.com/taissasli/293227bb62345aaf5f9d655cd0c29374/raw/42fe54de9afc7816d71c609589928d1d693c59be/githubcard.svg"/>
-  <h3>Sobre mim:</h3>
-  
-  - ❣ Atualmente estudando a trilha do Empower Code for Women
-  
-  - 🔍 Procurando minha primeira vaga de estágio na área.
-  
-  - 💘 Também sou apaixonada pela área de **Design**
-  
+</div>
+<div align="left">
+  <h3 align="center">Sobre mim:</h3>
+    
+  - ❣ Atualmente estudando a trilha do Empower Code for Women<br>
+    
+  - 🔍 Procurando minha primeira vaga de estágio na área.<br>
+    
+  - 💘 Também sou apaixonada pela área de **Design** <br>
+    
   - 💡 Uma palavra que me defina: Otimismo.
-  
+    
+  </p>
 
 </div>
 
