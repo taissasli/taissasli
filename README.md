@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=087E8B&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7B1AB&height=120&section=header"/>
 
 <div align="center">
   <a href="https://github.com/taissasli">
