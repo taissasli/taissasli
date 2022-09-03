@@ -5,8 +5,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=taissasli&show_icons=true&count_private=true&hide_border=true&title_color=F686BD&icon_color=F686BD&text_color=c9d1d9&bg_color=0d1117" alt="Taissa Lima github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taissasli&layout=compact&hide_border=true&title_color=F686BD&text_color=F686BD&bg_color=0d1117" />
-  ![Snake animation](https://raw.githubusercontent.com/taissasli/taissasli/output/github-contribution-grid-snake.svg)
-</div>
+![snake gif](https://github.com/taissasli/taissasli/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
