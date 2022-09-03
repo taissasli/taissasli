@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BFD7EA&height=120&section=header"/>
+
 <div align="center">
   <a href="https://github.com/taissasli">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=taissasli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
