@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F686BD&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F686BD&size=35&center=true&vCenter=true&width=1000&lines=Nunca,+deixe+de+estudar.+:%29)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://github.com/taissasli">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=taissasli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
